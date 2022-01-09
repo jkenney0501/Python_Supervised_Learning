@@ -14,3 +14,6 @@ This repo is still being developed.
 - [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
 
 - [Model Evaluation](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Model%20Evaluation%20-%20Logistic%20Regression.ipynb)
+
+- [Titanic Survival Predictions]()
+  -This model is a foundational example of exploring the data, cleaning, training, predicting and evaluating metrics.
