@@ -7,9 +7,10 @@ This repo is still being developed.
   - Purpose of this example is to layout a simplified appraoch to LM modeling.
 
 - [eCommerce LM Mini Project (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/eCommerce%20w-LinearRegression/02-Linear%20Regression%20Project.ipynb)
+  - This Linear Regression model explores the variables associated with webiste sessions compared to mobile sessions to predict annual spending amounts from customers. 
 
 
-### Logistic Regression
+### Logistic Regression - To be completed. Last update on 1/9/2022
 - [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
 
 - [Model Evaluation](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Model%20Evaluation%20-%20Logistic%20Regression.ipynb)
