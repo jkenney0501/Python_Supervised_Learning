@@ -15,5 +15,5 @@ This repo is still being developed.
 
 - [Model Evaluation](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Model%20Evaluation%20-%20Logistic%20Regression.ipynb)
 
-- [Titanic Survival Predictions]()
+- [Titanic Survival Predictions](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression%20-%20Titanic%20Survival%20Classification.ipynb)
   -This model is a foundational example of exploring the data, cleaning, training, predicting and evaluating metrics.
