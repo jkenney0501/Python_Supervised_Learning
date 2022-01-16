@@ -18,5 +18,5 @@ This repo is still being developed.
 - [Titanic Survival Predictions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression%20-%20Titanic%20Survival%20Classification.ipynb)
   -This model is a foundational example of exploring the data, cleaning, training, predicting and evaluating metrics.
   
-- [Adversting Predcitions Using Logistic Regression]()
+- [Adversting Predcitions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression-Advertising%20Predictions.ipynb)
    - A foundational example of building a logistic regression model used to predict if a customer clicked on an advertisment based on selected features.
