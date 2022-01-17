@@ -10,10 +10,11 @@ This repo is still being developed.
   - This Linear Regression model explores the variables associated with webiste sessions compared to mobile sessions to predict annual spending amounts from customers. 
 
 
-### Logistic Regression - To be completed. Last update on 1/9/2022
-- [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
+### Logistic Regression - To be completed. Last update on 1/17/2022
+- [Credit Default Logostic Regression Analysis]
+    - [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
 
-- [Model Evaluation](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Model%20Evaluation%20-%20Logistic%20Regression.ipynb)
+    - [Model Evaluation](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Model%20Evaluation%20-%20Logistic%20Regression.ipynb)
 
 - [Titanic Survival Predictions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression%20-%20Titanic%20Survival%20Classification.ipynb)
   -This model is a foundational example of exploring the data, cleaning, training, predicting and evaluating metrics.
