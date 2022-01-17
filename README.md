@@ -11,7 +11,7 @@ This repo is still being developed.
 
 
 ### Logistic Regression - To be completed. Last update on 1/17/2022
-- [Credit Default Logostic Regression Analysis]
+- Credit Default Logostic Regression Analysis
     - [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
 
     - [Model Evaluation](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Model%20Evaluation%20-%20Logistic%20Regression.ipynb)
