@@ -22,6 +22,6 @@ This repo is still being developed.
 - [Adversting Predcitions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression-Advertising%20Predictions.ipynb)
    - A foundational example of building a logistic regression model used to predict if a customer clicked on an advertisment based on selected features.
 
-  ### K Nearest Neigbors
-  - [Anonymous Classification]()
+### K Nearest Neigbors
+  - [Anonymous Classification](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Example.ipynb)
     -This example provides the base algorithm use case and an optimization for error rate using the elbow method for K.
