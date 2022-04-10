@@ -25,3 +25,7 @@ This repo is still being developed.
 ### K Nearest Neigbors
   - [Anonymous Classification](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Example.ipynb)
     -This example provides the base algorithm use case and an optimization for error rate using the elbow method for K.
+
+  - [Anonymous Classification Project](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Project.ipynb)
+    - Same as the example but with a larger and different anonymous data set. The concepts covered are menat to strengthen the fundamental task of using and optimizing the model.
+    
