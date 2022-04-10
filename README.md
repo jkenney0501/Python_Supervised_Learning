@@ -10,7 +10,7 @@ This repo is still being developed.
   - This Linear Regression model explores the variables associated with webiste sessions compared to mobile sessions to predict annual spending amounts from customers. 
 
 
-### Logistic Regression - To be completed. Last update on 1/17/2022
+### Logistic Regression - To be completed. Last update on 2/21/2022
 - Credit Default Logostic Regression Analysis
     - [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
 
@@ -21,3 +21,7 @@ This repo is still being developed.
   
 - [Adversting Predcitions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression-Advertising%20Predictions.ipynb)
    - A foundational example of building a logistic regression model used to predict if a customer clicked on an advertisment based on selected features.
+
+  ### K Nearest Neigbors
+  - [Anonymous Classification]()
+    -This example provides the base algorithm use case and an optimization for error rate using the elbow method for K.
