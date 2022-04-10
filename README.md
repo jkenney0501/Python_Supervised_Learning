@@ -17,15 +17,14 @@ This repo is still being developed.
     - [Model Evaluation](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Model%20Evaluation%20-%20Logistic%20Regression.ipynb)
 
 - [Titanic Survival Predictions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression%20-%20Titanic%20Survival%20Classification.ipynb)
-  -This model is a foundational example of exploring the data, cleaning, training, predicting and evaluating metrics.
+  - This model is a foundational example of exploring the data, cleaning, training, predicting and evaluating metrics.
   
 - [Adversting Predcitions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression-Advertising%20Predictions.ipynb)
    - A foundational example of building a logistic regression model used to predict if a customer clicked on an advertisment based on selected features.
 
 ### K Nearest Neigbors
   - [Anonymous Classification](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Example.ipynb)
-    -This example provides the base algorithm use case and an optimization for error rate using the elbow method for K.
+    - This example provides the base algorithm use case and an optimization for error rate using the elbow method for K.
 
   - [Anonymous Classification Project](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Project.ipynb)
     - Same as the example but with a larger and different anonymous data set. The concepts covered are menat to strengthen the fundamental task of using and optimizing the model.
-    
