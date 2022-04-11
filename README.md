@@ -1,8 +1,9 @@
 # Python_Supervised_Learning
 
-This repo is still being developed.
+This repo is still being developed. Some small projects are done as an example but mostly as a reference for fundamentals. As time permits, more models will be added and complexity will grow within the various projects.
 
-### Linear Regression
+## Linear Regression
+<hr>
 - [Housing Prices (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/Housing%20Intro%20Example%20for%20-LR/1.Linear_Regression.1.1-Psuedo%20Housing%20Data.ipynb)
   - Purpose of this example is to layout a simplified appraoch to LM modeling.
 
@@ -10,8 +11,9 @@ This repo is still being developed.
   - This Linear Regression model explores the variables associated with webiste sessions compared to mobile sessions to predict annual spending amounts from customers. 
 
 
-### Logistic Regression - To be completed. Last update on 2/21/2022
-- Credit Default Logostic Regression Analysis
+## Logistic Regression - To be completed sometime this year! This is a rather extensive project. Last update on 2/21/2022
+<hr>
+- Credit Default: A Logistic Regression Analysis of customer credit card/default behavior.
     - [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
 
     - [Model Evaluation](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Model%20Evaluation%20-%20Logistic%20Regression.ipynb)
@@ -22,9 +24,14 @@ This repo is still being developed.
 - [Adversting Predcitions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression-Advertising%20Predictions.ipynb)
    - A foundational example of building a logistic regression model used to predict if a customer clicked on an advertisment based on selected features.
 
-### K Nearest Neigbors
+## K Nearest Neigbors
+<hr>
   - [Anonymous Classification](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Example.ipynb)
     - This example provides the base algorithm use case and an optimization for error rate using the elbow method for K.
 
   - [Anonymous Classification Project](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Project.ipynb)
-    - Same as the example but with a larger and different anonymous data set. The concepts covered are menat to strengthen the fundamental task of using and optimizing the model.
+    - Same as the example classification above but with a larger and different anonymous data set. The concepts covered are menat to strengthen the fundamental task of using and optimizing the model.
+
+## Decision Trees & Random Forrests
+  - [Kyphosis Decision Tree]()
+    - This example uses a decision tree to analyze patients that had undergone an operation for a spinal condition called Kyphosis. The decision tree is used to predict whether or not a patitent was healed several months post op. 
