@@ -3,7 +3,6 @@
 This repo is still being developed. Some small projects are done as an example but mostly as a reference for fundamentals. As time permits, more models will be added and complexity will grow within the various projects.
 
 ## Linear Regression
-<hr>
 - [Housing Prices (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/Housing%20Intro%20Example%20for%20-LR/1.Linear_Regression.1.1-Psuedo%20Housing%20Data.ipynb)
   - Purpose of this example is to layout a simplified appraoch to LM modeling.
 
@@ -12,7 +11,6 @@ This repo is still being developed. Some small projects are done as an example b
 
 
 ## Logistic Regression - To be completed sometime this year! This is a rather extensive project. Last update on 2/21/2022
-<hr>
 - Credit Default: A Logistic Regression Analysis of customer credit card/default behavior.
     - [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
 
@@ -25,7 +23,6 @@ This repo is still being developed. Some small projects are done as an example b
    - A foundational example of building a logistic regression model used to predict if a customer clicked on an advertisment based on selected features.
 
 ## K Nearest Neigbors
-<hr>
   - [Anonymous Classification](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Example.ipynb)
     - This example provides the base algorithm use case and an optimization for error rate using the elbow method for K.
 
@@ -33,5 +30,5 @@ This repo is still being developed. Some small projects are done as an example b
     - Same as the example classification above but with a larger and different anonymous data set. The concepts covered are menat to strengthen the fundamental task of using and optimizing the model.
 
 ## Decision Trees & Random Forrests
-  - [Kyphosis Decision Tree]()
+  - [Kyphosis Decision Tree](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Decision%20Trees%20and%20Random%20Forests/Decision%20Trees.ipynb)
     - This example uses a decision tree to analyze patients that had undergone an operation for a spinal condition called Kyphosis. The decision tree is used to predict whether or not a patitent was healed several months post op. 
