@@ -2,6 +2,8 @@
 
 This repo is still being developed. Some small projects are done as an example but mostly as a reference for fundamentals. As time permits, more models will be added and complexity will grow within the various projects.
 
+Coming Soon: Section on hyperparameter tuning! 
+
 ## Linear Regression
 - [Housing Prices (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/Housing%20Intro%20Example%20for%20-LR/1.Linear_Regression.1.1-Psuedo%20Housing%20Data.ipynb)
   - Purpose of this example is to layout a simplified appraoch to LM modeling.
