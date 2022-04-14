@@ -10,7 +10,7 @@ This repo is still being developed. Some small projects are done as an example b
   - This Linear Regression model explores the variables associated with webiste sessions compared to mobile sessions to predict annual spending amounts from customers. 
 
 
-## Logistic Regression - To be completed sometime this year! This is a rather extensive project. Last update on 2/21/2022
+## Logistic Regression - To be completed sometime this year (credit default LR)! This is a rather extensive project. Last update on 2/21/2022
 - Credit Default: A Logistic Regression Analysis of customer credit card/default behavior.
     - [Data Cleaning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LogisticRegression-CreditDefault/NoteBooks/Data%20Exploration%20and%20Cleaning.ipynb)
 
