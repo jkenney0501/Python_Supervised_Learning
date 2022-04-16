@@ -5,11 +5,14 @@ This repo is still being developed. Some small projects are done as an example b
 Coming Soon: Section on hyperparameter tuning! 
 
 ## Linear Regression
+<img src="./imgs/regression-analysis-diagram.svg" alt="linear regression">
+
 - [Housing Prices (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/Housing%20Intro%20Example%20for%20-LR/1.Linear_Regression.1.1-Psuedo%20Housing%20Data.ipynb)
   - Purpose of this example is to layout a simplified appraoch to LM modeling.
 
 - [eCommerce LM Mini Project (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/eCommerce%20w-LinearRegression/02-Linear%20Regression%20Project.ipynb)
   - This Linear Regression model explores the variables associated with webiste sessions compared to mobile sessions to predict annual spending amounts from customers. 
+
 
 
 ## Logistic Regression - To be completed sometime this year (credit default LR)! This is a rather extensive project. Last update on 2/21/2022
