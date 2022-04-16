@@ -35,6 +35,9 @@ Coming Soon: Section on hyperparameter tuning!
     - Same as the example classification above but with a larger and different anonymous data set. The concepts covered are menat to strengthen the fundamental task of using and optimizing the model.
 
 ## Decision Trees & Random Forrests
+![Linear Regression](./Imgs/decisionTree.png)
+
+
   - [Kyphosis Decision Tree](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Decision%20Trees%20and%20Random%20Forests/Decision%20Trees.ipynb)
     - This example uses a decision tree to analyze patients that had undergone an operation for a spinal condition called Kyphosis. The decision tree is used to predict whether or not a patitent was healed several months post op. 
 
