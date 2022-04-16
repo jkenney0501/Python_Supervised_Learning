@@ -27,12 +27,19 @@ Coming Soon: Section on hyperparameter tuning!
 - [Adversting Predcitions Using Logistic Regression](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Logistic%20Regression%20Classification%20Examples/Logistic%20Regression-Advertising%20Predictions.ipynb)
    - A foundational example of building a logistic regression model used to predict if a customer clicked on an advertisment based on selected features.
 
+
+
 ## K Nearest Neigbors
+![Linear Regression](./Imgs/knn.png)
+
+
   - [Anonymous Classification](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Example.ipynb)
     - This example provides the base algorithm use case and an optimization for error rate using the elbow method for K.
 
   - [Anonymous Classification Project](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Project.ipynb)
     - Same as the example classification above but with a larger and different anonymous data set. The concepts covered are menat to strengthen the fundamental task of using and optimizing the model.
+
+
 
 ## Decision Trees & Random Forrests
 ![Linear Regression](./Imgs/decisionTree.png)
