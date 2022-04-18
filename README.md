@@ -7,6 +7,9 @@ Coming Soon: Section on hyperparameter tuning!
 ## Linear Regression
 ![Linear Regression](./Imgs/regression-analysis-diagram.svg)
 
+- [Simple Linear Regression Guide for Machine Learning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Simple%20Linear%20Regression%20Guide/Simple%20Linear%20Model.ipynb)
+  - A simple breakdown of the model, the theory and metrics used. More to come on the theory.
+
 - [Housing Prices (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/Housing%20Intro%20Example%20for%20-LR/1.Linear_Regression.1.1-Psuedo%20Housing%20Data.ipynb)
   - Purpose of this example is to layout a simplified appraoch to LM modeling.
 
