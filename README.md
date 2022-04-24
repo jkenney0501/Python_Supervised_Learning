@@ -1,6 +1,6 @@
 # Python_Supervised_Learning
 
-This repo is still being developed. Some small projects are done as an example but mostly as a reference for fundamentals. As time permits, more models will be added and complexity will grow within the various projects.
+This repo is still being developed. Some small projects are done as an example but mostly as a reference for fundamentals with a heavy emphasis on data cleaning, exploration, statistical analysis and modeling. As time permits, more models will be added and complexity will grow within the various projects.
 
 Coming Soon: Section on hyperparameter tuning! 
 
@@ -8,13 +8,17 @@ Coming Soon: Section on hyperparameter tuning!
 ![Linear Regression](./Imgs/regression-analysis-diagram.svg)
 
 - [Simple Linear Regression Guide for Machine Learning](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Simple%20Linear%20Regression%20Guide/Simple%20Linear%20Model.ipynb)
-  - A simple breakdown of the model, the theory and metrics used. More to come on the theory.
+  - A simple breakdown of the model using one independent and one dependent variable, the theory and metrics used. More to come on the theory.
+
+- [Bike Demand Predictions using MLM]()
+  - Coming Soon! 
+  - Full feature analysis will include statistical procedures, testing for assumtions, and MLR modeling using a large real world data set. 
 
 - [Housing Prices (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/Housing%20Intro%20Example%20for%20-LR/1.Linear_Regression.1.1-Psuedo%20Housing%20Data.ipynb)
-  - Purpose of this example is to layout a simplified appraoch to LM modeling.
+  - Purpose of this example is to layout a simplified approach to Multiple LM modeling.
 
 - [eCommerce LM Mini Project (Psuedo Data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/LinearRegression/Base%20Examples/eCommerce%20w-LinearRegression/02-Linear%20Regression%20Project.ipynb)
-  - This Linear Regression model explores the variables associated with webiste sessions compared to mobile sessions to predict annual spending amounts from customers. 
+  - This Multiple Linear Regression model explores the variables associated with webiste sessions compared to mobile sessions to predict annual spending amounts from customers. 
 
 
 
@@ -49,7 +53,7 @@ Coming Soon: Section on hyperparameter tuning!
 
 
   - [Kyphosis Decision Tree](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Decision%20Trees%20and%20Random%20Forests/Decision%20Trees.ipynb)
-    - This example uses a decision tree to analyze patients that had undergone an operation for a spinal condition called Kyphosis. The decision tree is used to predict whether or not a patitent was healed several months post op. 
+    - This example uses a decision tree to analyze patients that had undergone an operation for a spinal condition called Kyphosis. The decision tree is used to predict whether or not a patient was healed several months post op. 
 
   - [Lending Tree Decision Tree/RF Analysis (real data)](https://github.com/jkenney0501/Python_Supervised_Learning/blob/main/Decision%20Trees%20and%20Random%20Forests/Decision%20Trees%20and%20Random%20Forest%20Project.ipynb)
-    - This analysis completes an exploratory analysis, tests a decision tree and compares the results to a random forest using the same data. All data is real data from leanding tree circa 2010ish.
+    - This analysis completes an exploratory analysis, tests a decision tree and compares the results to a random forest using the same data. All data is real data from lending tree circa 2010ish.
